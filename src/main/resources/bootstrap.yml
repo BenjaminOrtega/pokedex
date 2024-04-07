@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: pokedex
+server:
+  port: 9081
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html 
+
